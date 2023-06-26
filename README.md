@@ -1,4 +1,13 @@
 ### Bonjour 👋
+Je m'appelle Meiling et je suis étudiante en M1 MIASHS (Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales) parcours Technologie et Handicap à l'université Paris 8 depuis 2022.
+
+Je suis à la recherche d'un emploi en tant que développeuse Java ou UX/UI designer. 
+
+Voici mon portfolio.
+
+En ce qui concerne mes compétences informatiques, je maîtrise Java, le shell Linux/Unix, Figma, Wordpress, PHP, MySQL, Adobe Premiere Pro et Excel.
+
+Merci.
 
 <!--
 **lipschitzien/lipschitzien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
