@@ -5,7 +5,7 @@ Je suis à la recherche d'un emploi en tant que développeuse Java ou UX/UI desi
 
 Voici mon portfolio.
 
-En ce qui concerne mes compétences informatiques, je maîtrise Java, le shell Linux/Unix, Figma, Wordpress, PHP, MySQL, Adobe Premiere Pro et Excel.
+En ce qui concerne mes compétences informatiques, je maîtrise Java, Linux/Unix Shell, Figma, Wordpress, PHP, MySQL, Adobe Premiere Pro et Excel.
 
 Merci.
 
