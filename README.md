@@ -7,7 +7,6 @@ Voici mon portfolio.
 
 En ce qui concerne mes compétences informatiques, je maîtrise Java, Linux/Unix Shell, Figma, Wordpress, PHP, MySQL, Adobe Premiere Pro et Excel.
 
-Merci.
 
 <!--
 **lipschitzien/lipschitzien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
