@@ -5,7 +5,7 @@ Je suis à la recherche d'un emploi en tant que développeuse Java ou UX/UI desi
 
 Voici mon [portfolio](http://portfolio-meiling.42web.io/).
 
-En ce qui concerne mes compétences informatiques, je maîtrise Java, Linux/Unix Shell, Figma, Wordpress, PHP, MySQL, Android Studio, Adobe Premiere Pro et Excel.
+En ce qui concerne mes compétences informatiques, je maîtrise Java, Linux/Unix Shell, PHP, MySQL, Figma, Android Studio, Wordpress, Adobe Premiere Pro et Excel.
 
 
 <!--
