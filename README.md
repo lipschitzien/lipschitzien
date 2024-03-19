@@ -1,5 +1,6 @@
 ### Bonjour 👋
 Je m'appelle Meiling et je suis étudiante en M2 MIASHS (Mathématiques et Informatique Appliquées) parcours Technologie et Handicap à l'université Paris 8 depuis 2022.
+J'ai fait des maths et du machine learning.
 <!--
 Je cherche un emploi dans les domaines du développement Java, du machine learning (intelligence artificielle) en Python ou du design UX/UI en Figma.
 
